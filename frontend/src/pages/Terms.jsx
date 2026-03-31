@@ -8,15 +8,15 @@ const Terms = () => {
       title: "Acceptance of Terms",
       icon: FileText,
       content: `
-        <p>By accessing or using the dPIN website monitoring service (the "Service"), you agree to be bound by these Terms of Service. If you do not agree to these terms, you may not access or use the Service.</p>
-        <p>We may modify these terms at any time, and such modifications shall be effective immediately upon posting on the dPIN website. Your continued use of the Service following the posting of modified terms will confirm your acceptance of those changes.</p>
+        <p>By accessing or using the AEGIS website monitoring service (the "Service"), you agree to be bound by these Terms of Service. If you do not agree to these terms, you may not access or use the Service.</p>
+        <p>We may modify these terms at any time, and such modifications shall be effective immediately upon posting on the AEGIS website. Your continued use of the Service following the posting of modified terms will confirm your acceptance of those changes.</p>
       `
     },
     {
       title: "Description of Service",
       icon: Shield,
       content: `
-        <p>dPIN provides a decentralized website monitoring service that monitors website availability, performance, and security using a network of validator nodes operating on blockchain technology.</p>
+        <p>AEGIS provides a decentralized website monitoring service that monitors website availability, performance, and security using a network of validator nodes operating on blockchain technology.</p>
         <p>The Service includes:</p>
         <ul>
           <li>Website uptime monitoring</li>
@@ -46,7 +46,7 @@ const Terms = () => {
       title: "Intellectual Property Rights",
       icon: Scale,
       content: `
-        <p>The Service and its original content, features, and functionality are owned by dPIN and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.</p>
+        <p>The Service and its original content, features, and functionality are owned by AEGIS and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.</p>
         <p>You may not modify, reproduce, distribute, create derivative works or adaptations of, publicly display, or in any way exploit any of the content, software, or the Service in whole or in part except as expressly authorized by us.</p>
       `
     }
@@ -82,7 +82,7 @@ const Terms = () => {
           className="bg-black/30 backdrop-blur-md rounded-2xl border border-white/10 p-8 mb-8 relative z-10"
         >
           <p className="text-gray-300">
-            These Terms of Service ("Terms") govern your access to and use of the dPIN website monitoring service, including any applications, features, and content offered by dPIN ("we", "us", or "our").
+            These Terms of Service ("Terms") govern your access to and use of the AEGIS website monitoring service, including any applications, features, and content offered by AEGIS ("we", "us", or "our").
           </p>
           <p className="text-gray-300 mt-4">
             Please read these Terms carefully before using our Service. By accessing or using the Service, you agree to be bound by these Terms and our Privacy Policy.
@@ -117,7 +117,7 @@ const Terms = () => {
         >
           <h2 className="text-2xl font-bold text-white mb-4">Disclaimer of Warranties</h2>
           <p className="text-gray-300 mb-4">
-            The Service is provided on an "AS IS" and "AS AVAILABLE" basis. dPIN expressly disclaims all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+            The Service is provided on an "AS IS" and "AS AVAILABLE" basis. AEGIS expressly disclaims all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
           </p>
           <p className="text-gray-300 mb-4">
             We do not guarantee that the Service will be uninterrupted, timely, secure, or error-free. Results that may be obtained from the use of the Service are provided without warranties of any kind.
@@ -132,7 +132,7 @@ const Terms = () => {
         >
           <h2 className="text-2xl font-bold text-white mb-4">Limitation of Liability</h2>
           <p className="text-gray-300 mb-4">
-            To the maximum extent permitted by law, in no event shall dPIN, its affiliates, directors, employees, agents, or licensors be liable for any indirect, punitive, incidental, special, consequential, or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data, or other intangible losses.
+            To the maximum extent permitted by law, in no event shall AEGIS, its affiliates, directors, employees, agents, or licensors be liable for any indirect, punitive, incidental, special, consequential, or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data, or other intangible losses.
           </p>
           <h2 className="text-2xl font-bold text-white mb-4 mt-8">Changes to These Terms</h2>
           <p className="text-gray-300 mb-4">
@@ -140,7 +140,7 @@ const Terms = () => {
           </p>
           <h2 className="text-2xl font-bold text-white mb-4 mt-8">Contact Us</h2>
           <p className="text-gray-300">
-            If you have any questions about these Terms, please contact us at legal@dpin.network.
+            If you have any questions about these Terms, please contact us at legal@AEGIS.network.
           </p>
         </motion.div>
       </div>

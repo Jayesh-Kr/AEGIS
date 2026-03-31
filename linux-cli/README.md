@@ -1,6 +1,6 @@
 # Validator CLI for Linux
 
-A decentralized uptime validator command-line interface optimized for Linux systems. This tool allows you to run a validator node for the DPin network on Linux systems.
+A decentralized uptime validator command-line interface optimized for Linux systems. This tool allows you to run a validator node for the AEGIS network on Linux systems.
 
 ## 🚀 Getting Started (Quick Guide)
 
@@ -193,7 +193,7 @@ This displays your:
 
 ## 📚 Learn More
 
-For more information about DPin and the validator network, refer to the main project documentation.
+For more information about AEGIS and the validator network, refer to the main project documentation.
 
 ## 📄 License
 

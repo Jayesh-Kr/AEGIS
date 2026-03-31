@@ -10,7 +10,7 @@ import {
 import { authenticateValidator } from "./middleware.js";
 import jwt from "jsonwebtoken";
 import cors from "cors";
-import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 import { v4 as uuidv4 } from "uuid";
 import { configDotenv } from "dotenv";
 import bs58 from "bs58";

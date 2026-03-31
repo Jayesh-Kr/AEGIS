@@ -30,7 +30,7 @@ const Validator = () => {
             <span className="relative inline-block">
               <span className="absolute inset-0 bg-[linear-gradient(to_left,#4d4d4d,#848484_20%,#ffffff_50%,#848484_80%,#4d4d4d_100%)] bg-clip-text text-transparent blur-[2px] brightness-150"></span>
               <span className="relative bg-[linear-gradient(to_left,#6b6b6b,#848484_20%,#ffffff_50%,#848484_80%,#6b6b6b_100%)] bg-clip-text text-transparent animate-shine-fast">
-                Become a dPIN Validator
+                Become a AEGIS Validator
               </span>
             </span>
           </h1>
@@ -38,14 +38,14 @@ const Validator = () => {
           <div className="bg-black/40 backdrop-blur-md rounded-2xl p-6 md:p-8 mb-10 border border-white/10 relative overflow-hidden">
             <div className="absolute top-0 right-0 h-full w-2/5 bg-gradient-to-l from-purple-600/10 to-transparent"></div>
             
-            <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">What is dPIN?</h2>
+            <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">What is AEGIS?</h2>
             
             <p className="text-gray-300 mb-6 max-w-3xl">
-              <span className="text-purple-400 font-semibold">dPIN</span> (Decentralized Physical Infrastructure Network) is a revolutionary approach to website monitoring that leverages blockchain technology to create a trustless, distributed network of validators.
+              <span className="text-purple-400 font-semibold">AEGIS</span> (Decentralized Physical Infrastructure Network) is a revolutionary approach to website monitoring that leverages blockchain technology to create a trustless, distributed network of validators.
             </p>
             
             <p className="text-gray-300 mb-8 max-w-3xl">
-              Unlike traditional monitoring services that rely on centralized servers, dPIN distributes monitoring responsibilities across a global network of independent validators, ensuring unparalleled reliability, transparency, and resistance to manipulation.
+              Unlike traditional monitoring services that rely on centralized servers, AEGIS distributes monitoring responsibilities across a global network of independent validators, ensuring unparalleled reliability, transparency, and resistance to manipulation.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-8">

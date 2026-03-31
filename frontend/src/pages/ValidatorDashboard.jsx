@@ -252,7 +252,7 @@ const ValidatorDashboard = () => {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-gray-400"
           >
-            Your validator node is online and actively contributing to the dPIN
+            Your validator node is online and actively contributing to the AEGIS
             network.
           </motion.p>
         </div>
@@ -437,7 +437,7 @@ const ValidatorDashboard = () => {
             <div className="bg-black/50 rounded-lg p-4 border border-white/5">
               <h3 className="text-purple-400 font-medium mb-2">A decentralized uptime validator CLI for monitoring website availability</h3>
               <p className="text-gray-300 mb-4">
-                Our Command Line Interface (CLI) tool allows validators to participate in the dPIN network. Follow these steps to get started:
+                Our Command Line Interface (CLI) tool allows validators to participate in the AEGIS network. Follow these steps to get started:
               </p>
               
               <div className="space-y-1 mb-4">
@@ -500,7 +500,7 @@ npm link</code>
                   </p>
                 </div>
                 <a 
-                  href="https://www.github.com/lviffy/dPIN-cli" 
+                  href="https://www.github.com/lviffy/AEGIS-cli" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-white/20 text-white py-2 px-4 rounded-lg transition-colors text-sm flex items-center"

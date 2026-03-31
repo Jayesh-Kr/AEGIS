@@ -153,7 +153,7 @@ const SignupValidator = () => {
           </div>
 
           <div className="mb-8">
-            <h2 className="text-xl text-white mb-4">Join the dPIN Network</h2>
+            <h2 className="text-xl text-white mb-4">Join the AEGIS Network</h2>
             <p className="text-gray-300">
               By becoming a validator, you'll participate in our decentralized
               network and help ensure the reliability and transparency of our

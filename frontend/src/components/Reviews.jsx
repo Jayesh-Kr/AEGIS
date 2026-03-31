@@ -8,7 +8,7 @@ const reviews = [
     id: 1,
     name: 'Sarah Johnson',
     position: 'DevOps Engineer',
-    content: 'dPIN has completely transformed our monitoring strategy. The decentralized approach gives us confidence that our monitoring data is tamper-proof and always available, even during major outages.',
+    content: 'AEGIS has completely transformed our monitoring strategy. The decentralized approach gives us confidence that our monitoring data is tamper-proof and always available, even during major outages.',
     rating: 5,
     image: 'https://randomuser.me/api/portraits/women/34.jpg',
     company: 'Cipher Technologies'
@@ -26,7 +26,7 @@ const reviews = [
     id: 3,
     name: 'Elena Rodriguez',
     position: 'Site Reliability Engineer',
-    content: 'We were skeptical about Web3 monitoring at first, but dPIN\'s decentralized network has consistently detected outages before our traditional monitoring tools even notice them.',
+    content: 'We were skeptical about Web3 monitoring at first, but AEGIS\'s decentralized network has consistently detected outages before our traditional monitoring tools even notice them.',
     rating: 4,
     image: 'https://randomuser.me/api/portraits/women/12.jpg',
     company: 'TechFlow Systems'
@@ -35,7 +35,7 @@ const reviews = [
     id: 4,
     name: 'David Nakamoto',
     position: 'Blockchain Developer',
-    content: 'As someone already invested in Web3 technologies, integrating dPIN was effortless. Their API documentation is excellent and the uptime improvements have been substantial.',
+    content: 'As someone already invested in Web3 technologies, integrating AEGIS was effortless. Their API documentation is excellent and the uptime improvements have been substantial.',
     rating: 5,
     image: 'https://randomuser.me/api/portraits/men/22.jpg',
     company: 'Decentralized Ventures'
@@ -44,7 +44,7 @@ const reviews = [
     id: 5,
     name: 'Priya Sharma',
     position: 'Infrastructure Lead',
-    content: 'We detected and resolved a regional outage 4 minutes faster with dPIN than our legacy monitoring system. The global node distribution provides visibility we never had before.',
+    content: 'We detected and resolved a regional outage 4 minutes faster with AEGIS than our legacy monitoring system. The global node distribution provides visibility we never had before.',
     rating: 5,
     image: 'https://randomuser.me/api/portraits/women/64.jpg',
     company: 'GrowFast Startup'

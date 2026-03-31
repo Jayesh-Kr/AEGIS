@@ -275,7 +275,7 @@ const Features = () => {
             </span>
           </h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            dPIN provides all the tools you need to monitor, analyze, and improve your website's performance.
+            AEGIS provides all the tools you need to monitor, analyze, and improve your website's performance.
           </p>
         </motion.div>
         

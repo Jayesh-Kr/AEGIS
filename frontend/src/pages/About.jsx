@@ -18,7 +18,7 @@ const About = () => {
           className="text-center relative z-10 mb-16"
         >
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            About <span className="bg-gradient-to-r from-purple-400 to-pink-400 text-transparent bg-clip-text">dPIN</span>
+            About <span className="bg-gradient-to-r from-purple-400 to-pink-400 text-transparent bg-clip-text">AEGIS</span>
           </h1>
           <p className="text-gray-300 text-lg max-w-3xl mx-auto">
             Revolutionizing website monitoring through decentralized infrastructure, blockchain verification, and AI-powered analytics.
@@ -35,7 +35,7 @@ const About = () => {
           <div className="bg-black/30 backdrop-blur-md rounded-2xl border border-white/10 p-8">
             <h2 className="text-2xl font-bold text-white mb-4">Our Mission</h2>
             <p className="text-gray-300 mb-6">
-              At dPIN, we're on a mission to transform how websites are monitored. Traditional monitoring systems rely on centralized infrastructure that can be a single point of failure. We've built a decentralized platform that leverages the power of blockchain technology to provide tamper-proof monitoring reports and unmatched reliability.
+              At AEGIS, we're on a mission to transform how websites are monitored. Traditional monitoring systems rely on centralized infrastructure that can be a single point of failure. We've built a decentralized platform that leverages the power of blockchain technology to provide tamper-proof monitoring reports and unmatched reliability.
             </p>
             <p className="text-gray-300">
               Our goal is to create a trustless monitoring environment where website owners can have complete confidence in their uptime metrics and performance data, validated by a network of independent nodes across the globe.

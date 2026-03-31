@@ -172,7 +172,7 @@ const Comparison = () => {
                   transition={{ duration: 0.2 }}
                   className="bg-white/90 text-black px-8 py-3 rounded-full font-semibold hover:bg-white/80 transition-all duration-300 shadow-[0_0_15px_rgba(139,91,255,0.3)] group-hover:shadow-[0_0_25px_rgba(139,91,255,0.6)] relative backdrop-blur-sm animate-button-shine"
                 >
-                  Try dPIN Today
+                  Try AEGIS Today
                 </motion.button>
               </Link>
             </div>

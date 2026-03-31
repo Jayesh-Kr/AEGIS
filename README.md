@@ -1,18 +1,18 @@
-# 🌐 dPIN Website Monitoring System 
+# 🌐 AEGIS Website Monitoring System 
 
-A **decentralized website monitoring system** leveraging **dPIN (Decentralized Public Infrastructure Network)** to ensure **trustless uptime verification, real-time alerts, and transparency** without relying on centralized authorities.  
+A **decentralized website monitoring system** leveraging **AEGIS (Decentralized Public Infrastructure Network)** to ensure **trustless uptime verification, real-time alerts, and transparency** without relying on centralized authorities.  
 
-> With dPIN, experience a truly decentralized, transparent, and reliable website monitoring system.
+> With AEGIS, experience a truly decentralized, transparent, and reliable website monitoring system.
 > 
 
 <div align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Lviffy/dPIN">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/Lviffy/dPIN">
-  <a href="https://github.com/Lviffy/dPIN/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Lviffy/dPIN">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Lviffy/AEGIS">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/Lviffy/AEGIS">
+  <a href="https://github.com/Lviffy/AEGIS/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Lviffy/AEGIS">
   </a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Lviffy/dPIN">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Lviffy/dPIN">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Lviffy/AEGIS">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Lviffy/AEGIS">
 </div>
 
 ## 📸 Preview Images
@@ -34,7 +34,7 @@ A **decentralized website monitoring system** leveraging **dPIN (Decentralized P
       <td><img src="preview-images/valiadtor-cli2.png" alt="Validator CLI 2" width="200"></td>
     </tr>
     <tr>
-      <td colspan="5" align="center"><em>Preview of the dPIN Website Monitoring System Interface</em></td>
+      <td colspan="5" align="center"><em>Preview of the AEGIS Website Monitoring System Interface</em></td>
     </tr>
   </table>
 </div>
@@ -63,7 +63,7 @@ Traditional website monitoring systems are **centralized, opaque, and vulnerable
 
 ## ✅ Solution  
 
-Our **dPIN-based monitoring system** decentralizes website uptime tracking by leveraging independent validators across a global network. Unlike traditional systems, which rely on a single authority, our solution ensures **real-time, trustless, and tamper-proof monitoring** without any central points of failure. Website owners can **prove uptime transparently**, while users receive **instant alerts** for downtime or performance issues. Validators are incentivized with **crypto rewards**, fostering a **self-sustaining, censorship-resistant** ecosystem that enhances reliability, security, and trust in website monitoring.
+Our **AEGIS-based monitoring system** decentralizes website uptime tracking by leveraging independent validators across a global network. Unlike traditional systems, which rely on a single authority, our solution ensures **real-time, trustless, and tamper-proof monitoring** without any central points of failure. Website owners can **prove uptime transparently**, while users receive **instant alerts** for downtime or performance issues. Validators are incentivized with **crypto rewards**, fostering a **self-sustaining, censorship-resistant** ecosystem that enhances reliability, security, and trust in website monitoring.
 
 ✨ **Website owners** can verify uptime transparently.  
 
@@ -76,7 +76,7 @@ Our **dPIN-based monitoring system** decentralizes website uptime tracking by le
 ## 🛠️ Tech Stack  
 🛡️ **Blockchain** – Solana 
 
-🌍 **dPIN (Decentralized Public Infrastructure Network)** – Distributed monitoring  
+🌍 **AEGIS (Decentralized Public Infrastructure Network)** – Distributed monitoring  
 
 🔗 **Database** – MongoDB   
 
@@ -93,8 +93,8 @@ Our **dPIN-based monitoring system** decentralizes website uptime tracking by le
 ## ⚙️ Installation & Setup  
 ```bash
 # Clone the repository
-git clone https://github.com/Lviffy/dPIN.git
-cd dPIN
+git clone https://github.com/Lviffy/AEGIS.git
+cd AEGIS
 
 # Install backend dependencies
 cd backend
@@ -168,7 +168,7 @@ After obtaining all keys, add them to your `.env` files in both backend and fron
 
 ## 🧠 Project Structure
 ```
-dPIN/
+AEGIS/
 ├── backend/               # Express.js server
 │   ├── db/                # Database connection
 │   ├── model/             # MongoDB schemas

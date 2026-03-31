@@ -92,7 +92,7 @@ const Privacy = () => {
           className="bg-black/30 backdrop-blur-md rounded-2xl border border-white/10 p-8 mb-8 relative z-10"
         >
           <p className="text-gray-300">
-            This Privacy Policy describes how dPIN ("we", "us", or "our") collects, uses, and discloses your information when you use our website monitoring service (the "Service"). 
+            This Privacy Policy describes how AEGIS ("we", "us", or "our") collects, uses, and discloses your information when you use our website monitoring service (the "Service"). 
             We are committed to protecting your privacy and the security of your data.
           </p>
           <p className="text-gray-300 mt-4">
@@ -140,7 +140,7 @@ const Privacy = () => {
             <li>The right to object to processing of your personal data</li>
           </ul>
           <p className="text-gray-300 mt-4">
-            To exercise any of these rights, please contact us at privacy@dpin.network.
+            To exercise any of these rights, please contact us at privacy@AEGIS.network.
           </p>
         </motion.div>
         
@@ -159,7 +159,7 @@ const Privacy = () => {
           </p>
           <h2 className="text-2xl font-bold text-white mb-4 mt-8">Contact Us</h2>
           <p className="text-gray-300">
-            If you have any questions about this Privacy Policy, please contact us at privacy@dpin.network.
+            If you have any questions about this Privacy Policy, please contact us at privacy@AEGIS.network.
           </p>
         </motion.div>
       </div>
